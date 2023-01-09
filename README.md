@@ -1,6 +1,6 @@
-# emoji interpreter
+# movie recommendation
 
-This app lets you find the meaning for entered emojis. 
+Movie Ratings based on genre. 
 
 ## Stacks Used
 - HTML
